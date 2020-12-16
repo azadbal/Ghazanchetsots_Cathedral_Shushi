@@ -1,0 +1,42 @@
+<Configuration id="{96BADAB2-151E-4398-86C1-4218BA7F9726}">
+  <entry key="sgFps" value="25"/>
+  <entry key="appCacheImageMetadata" value="true"/>
+  <entry key="appAutoClearCache" value="7"/>
+  <entry key="appTutorialMode" value="false"/>
+  <entry key="appLog" value="true"/>
+  <entry key="appMaxPointsToDisplay" value="10000000"/>
+  <entry key="appCopyImportedComponentsToCache" value="false"/>
+  <entry key="startColorAndTexture" value="PerVertexColor"/>
+  <entry key="isPpi" value="1"/>
+  <entry key="startRecMode" value="Normal"/>
+  <entry key="appAutoSaveMode" value="true"/>
+  <entry key="appAutoUpdate" value="true"/>
+  <entry key="appProcessActionTime" value="15"/>
+  <entry key="appCacheLocation" value="Custom"/>
+  <entry key="licEnDelHKCU" value="0"/>
+  <entry key="sgVideoRes" value="720pHDReady"/>
+  <entry key="licEnDelHKLM" value="1"/>
+  <entry key="appNavigationStyle" value="Default"/>
+  <entry key="CoordinateSystemWorkType" value="local:1 - Euclidean"/>
+  <entry key="CoordinateSystemOutputType" value="local:1 - Euclidean"/>
+  <entry key="startAlignMode" value="Normal"/>
+  <entry key="startSelectComponents" value="GreatestOne"/>
+  <entry key="startReconRegion" value="Automatic"/>
+  <entry key="capAudioBitRate" value="0"/>
+  <entry key="sgOutputFolderPath" value=""/>
+  <entry key="operationLog" value="true"/>
+  <entry key="sgFilePrefix" value="video"/>
+  <entry key="appUIAnim" value="false"/>
+  <entry key="UserInterfaceLanguageId" value="PREFERRED_LANGID"/>
+  <entry key="appThemeZoom" value="1.5"/>
+  <entry key="appCacheCustomLocation" value="Y:\RC Cache"/>
+  <entry key="sgStopOnFinish" value="false"/>
+  <entry key="sgBitRate" value="2500kbps"/>
+  <entry key="appGroupCalibrationByExif" value="false"/>
+  <entry key="appIgnoreExifGPS" value="false"/>
+  <entry key="sgCodec" value="WindowsMediaVideo"/>
+  <entry key="sgPlaySounds" value="true"/>
+  <entry key="CoordinateSystemWork" value="+proj=geocent +ellps=WGS84 +no_defs"/>
+  <entry key="CoordinateSystemOutput" value="+proj=geocent +ellps=WGS84 +no_defs"/>
+  <entry key="appProcessAction" value="PlaySound"/>
+</Configuration>

@@ -2,8 +2,9 @@
   <entry key="unwrapCheckerBoardCellSize" value="64"/>
   <entry key="unwrapButtonDisabled" value="0"/>
   <entry key="unwrapGutter" value="4"/>
-  <entry key="unwrapStyle" value="MaxTexturesCount"/>
-  <entry key="unwrapMaximalTexCount" value="2"/>
+  <entry key="unwrapFixedTexelSizeType" value="5"/>
+  <entry key="unwrapFixedTexelSize" value="0.007"/>
+  <entry key="unwrapStyle" value="FixedTexelSize"/>
   <entry key="unwrapFillTextures" value="0x1"/>
   <entry key="unwrapMaxTexResolution" value="8192"/>
   <entry key="unwrapLargeTriangleRemovalThr" value="10"/>
