@@ -9,7 +9,7 @@ A crowdsourced Photogrammetry reconstruction of the Ghazanchetsots Cathedral in 
 
 
 ## Introduction	
-The project was started in October of 2020, during the midst of the 2nd Karabakh War. As the war waged on, important cultural heritage sites were at risk of being damaged or destroyed, especially the Ghazanchetsots Cathedral. 
+The project was started in Nov of 2020, during the midst of the 2nd Karabakh War. As the war waged on, important cultural heritage sites were at risk of being damaged or destroyed, especially the Ghazanchetsots Cathedral. 
 
 To my knowledge, no 3D scans (Photogrammetry nor LIDAR) exist of the Cathedral. 3D scans are important for cultural heritage documentation and digital preservation, Archeology, History, Cartography, amongts other things.  
 
