@@ -5,7 +5,7 @@ A crowdsourced Photogrammetry reconstruction of the Ghazanchetsots Cathedral in 
 
 ----
 ## Sketchfab Mesh Preview
-
+https://skfb.ly/6XyzY
 
 
 ## Introduction	
